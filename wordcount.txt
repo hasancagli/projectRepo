@@ -1,0 +1,6 @@
+Machine Learning with Python Language.
+Connection denied because of our faults.
+Big Data and Machine Learning are so popular now.
+You can take input from the user.
+The console is not responding because of a big fault.
+Variable - The object which we use to store values.
